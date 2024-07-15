@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>ZAHAL | Industrial Services</title>
+    <title>Noor Academy</title>
     <meta name="description"
         content="ZAHAL is one of the leading Industrial Services Companies caters to the ever-growing and complex demands of the Petrochemical & Refineries in Saudi Arabia.">
     <meta name="keywords" content="ZAHAL, Industrial Services Companies, Industry Maintenance">

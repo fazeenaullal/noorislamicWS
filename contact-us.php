@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>ZAHAL | Industrial Services</title>
+    <title>Noor Academy</title>
     <meta name="description"
         content="ZAHAL is one of the leading Industrial Services Companies caters to the ever-growing and complex demands of the Petrochemical & Refineries in Saudi Arabia.">
     <meta name="keywords" content="ZAHAL, Industrial Services Companies, Industry Maintenance">
@@ -28,7 +28,7 @@
         </div>
         <section class="about-section">
             <div class="container">
-                <h2>contact</h2>
+                <h2>Contact Us</h2>
                 <div class="br-bot for-md"></div>
                 <div class="bg-color contactUs">
                     <div class="row">
@@ -38,15 +38,17 @@
                                 Lorem ipsum dolor sit amet <br> consectetur. Mattis tortor non nunc <br> tristique - 357589
                                 <br><br>zahal@gmail.com <br>+91 98765 43210 | +91 98765 43210
                             </address> -->
-                            <p><b>Mahammad Fayaz</b> <br>
+                            <!-- <p><b>Mahammad Fayaz</b> <br>
                             <b>Managing Director</b>
-                            </p>
-                            <p><i class="fas fa-phone"></i> <a href="tel:+966509010363">+966 509010363</a></p>
-                            <p><i class="fas fa-phone"></i> <a href="tel:+966133634136">+966133634136</a></p>
+                            </p> -->
+                            <p><i class="fas fa-phone"></i> <a href="tel:+91 8147593262">+91 8147593262</a></p>
+                            <!-- <p><i class="fas fa-phone"></i> <a href="tel:+91 8147593262">+966133634136</a></p> -->
                       
-                            <p><i class="fas fa-envelope"></i> <a href="mailto:fayaz@zahal.co"></a>fayaz@zahal.co</p>
+                            <p><i class="fas fa-envelope"></i> <a href="mailto:islamicacademy.noor@gmail.com"></a>islamicacademy.noor@gmail.com</p>
                             <p></p>
-                            <p><i class="fas fa-map-marker-alt"></i> &nbsp;8059 Riad, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jubail City Center, 5138,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Al Jubail 35514
+                            <!-- <p><i class="fas fa-map-marker-alt"></i> &nbsp;8059 Riad, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jubail City Center, 5138,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Al Jubail 35514
+                            </p> -->
+                            <p><i class="fas fa-map-marker-alt"></i> &nbsp;Mangalore
                             </p>
                             
                         </div>

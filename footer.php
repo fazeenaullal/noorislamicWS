@@ -4,9 +4,9 @@
         <div class="col-md-3 col-12 for-md">
           <ul>
             <li><a href="#">About us</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">News & Events</a></li>
-            <li><a href="#">Projects</a></li>
+            <li><a href="#">Subjects</a></li>
+            <!-- <li><a href="#">News & Events</a></li> -->
+            <!-- <li><a href="#">Projects</a></li> -->
           </ul>
         </div>
         <div class="col-md-4">
@@ -15,10 +15,10 @@
             8059 Riad, <br>Jubail City Center, 5138, <br>Al Jubail 35514
          
 
-             <br> Mobile No.: +966 509010363<br>
-              Office No.: +966 509010363<br><br>
+             <br> Mobile No.: +91 8147593262<br>
+              Office No.: +91 8147593262<br><br>
 
-              Mail: fayaz@zahal.co</p>
+              Mail: islamicacademy.noor@gmail.com</p>
         </div>
         <div class="col-md-4">
           <!-- <img src="img/footer-left.jpg" class="img-fluid imgs for-md"> -->
@@ -27,7 +27,7 @@
     </div>
     <div class="row secound-row">
       <div class="col-md-5">
-          <p>Copyright @ bestgulfoverseas co. ltd | Site by <a href="#" class="chill">Chillipages Technologies</a></p>
+          <p>Copyright 2024 | Site by <a href="#" class="chill">Q&Cloud Technologies</a></p>
       </div>
       <div class="col-md-3 offset-md-4 for-md">
           <ul class="icons">
@@ -35,6 +35,7 @@
               <li><a href="#" class="img-fluid"><img src="img/icon/YoutubeLogo.png" class="img-fluid" ></a></li>
               <li><a href="#" class="img-fluid"><img src="img/icon/LinkedinLogo.png" class="img-fluid" ></a></li>
               <li><a href="#" class="img-fluid"><img src="img/icon/TwitterLogo.png" class="img-fluid" ></a></li>
+              <li><a href="#" class="img-fluid"><img src="img/icon/whatsapplogo1.png" class="img-fluid" ></a></li>
           </ul>
       </div>
     </div>

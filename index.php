@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>ZAHAL | Industrial Services</title>
+  <title>Noor Academy</title>
   <meta name="description"
     content="ZAHAL is one of the leading Industrial Services Companies caters to the ever-growing and complex demands of the Petrochemical & Refineries in Saudi Arabia.">
   <meta name="keywords" content="ZAHAL, Industrial Services Companies, Industry Maintenance">
@@ -23,7 +23,7 @@
 <body>
   <div class="site-container">
     <?php include ('header.php') ?>
-    <section class="slider ">
+     <section class="slider ">
       <div id="myCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
         <!-- <div class="carousel-indicators">
       <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1">.01</button>
@@ -35,11 +35,11 @@
               <img src="img/slider/1.jpg" class="d-block w-100" alt="Zahal" />
             </a>
           </div>
-          <div class="carousel-item slide2" data-bs-interval="10000">
+          <!-- <div class="carousel-item slide2" data-bs-interval="10000">
             <a href="awards.php">
               <img src="img/slider/2.jpg" class="d-block w-100" alt="Zahal" />
             </a>
-          </div>
+          </div> -->
 
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
@@ -51,7 +51,7 @@
           <span class="visually-hidden">Next</span>
         </button>
       </div>
-    </section>
+    </section> 
     <!-- <section class="slider for-xs">
   <div id="myCarouselMobile" class="carousel slide carousel-fade" data-bs-ride="carousel">
     
@@ -86,16 +86,12 @@
             <img src="img/first-right.jpg" class="img-fluid imgs">
           </div>
           <div class="col-md-6 col-12 content_row">
-            <h2>Where Expertise Meets Efficiency<br>
-              <span>Trusted Industrial Partner <br>
-                At KSA</span>
+            <h2>About Noor Academy
+            <br>
+              <span>The Place Where You Can Achieve <br>
+                </span>
             </h2>
-            <p>Encapsulates our commitment to providing unparalleled solutions in the industrial landscape. As a trusted
-              partner, we leverage our deep expertise and industry knowledge to deliver innovative and reliable products
-              and services tailored to our clients' specific needs. Our focus on efficiency ensures that every project
-              is executed with precision and optimized for maximum productivity, cost-effectiveness, and sustainability.
-              With a dedication to quality, safety, and customer satisfaction, we strive to be the go-to industrial
-              partner for businesses seeking excellence in every aspect of their operations.</p>
+            <p>There Are Many Variations Of Passages Of Lorem Ipsum Available, But The Majority Have Suffered.</p>
             <a href="about-us.php" class="first_button">Get in touch <img src="img/button_arrow.png" class="img-fluid"></a>
           </div>
         </div>
@@ -103,14 +99,14 @@
     </section>
     <section class="secound-section">
   <div class="container">
-    <h2>Services</h2>
+    <h2>Subjects</h2>
     <div class="brline for-md"></div>
     <div class="row">
       <div class="col-md-6">
         <img id="service-image" src="img/Camp-Services.jpg" class="img-fluid" alt="Service Image">
       </div>
       <div class="col-md-6 position-relative">
-        <ul class="nav nav-pills mb-3 secound-button" id="pills-tab" role="tablist">
+        <!-- <ul class="nav nav-pills mb-3 secound-button" id="pills-tab" role="tablist">
           <li class="nav-item" role="presentation">
             <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home"
               type="button" role="tab" aria-controls="pills-home" aria-selected="true">.01</button>
@@ -139,16 +135,13 @@
             <button class="nav-link" id="pills-seven-tab" data-bs-toggle="pill" data-bs-target="#pills-seven"
               type="button" role="tab" aria-controls="pills-seven" aria-selected="false">.07</button>
           </li>
-        </ul>
+        </ul> -->
         <div class="secound-content">
           <div class="tab-content" id="pills-tabContent">
             <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
-              <h3>Camp Services</h3>
-              <p>Zahal Industrial Services provides extensive camp services tailored to meet the demands of
-                remote project sites across various industries, such as construction, mining, etc. Their
-                offerings cover every aspect of camp life, ensuring that workers have a comfortable, safe,
-                and productive environment.</p>
-              <a href="camp.php" class="first_button">Read More <img src="img/button_arrow.png" class="img-fluid" alt="Read More"></a>
+              <h3>SUBJECTS YOU WILL LEARN</h3>
+              <p>Start Learning From Today</p>
+              <!-- <a href="camp.php" class="first_button">Read More <img src="img/button_arrow.png" class="img-fluid" alt="Read More"></a> -->
             </div>
             <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
               <h3>Equipment Rental</h3>

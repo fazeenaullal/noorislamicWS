@@ -4,7 +4,7 @@
 		<a id="wsnavtoggle" class="wsanimated-arrow"><span></span></a>
 		<span class="smllogo">
 			<a href="index.php">
-			<img src="img/zahal_logo.svg" alt="Zahal"/>
+			< alt="Noor Academy"/>
 			</a>
 		</span>
 		<!-- <a href="tel:123456789" class="callusbtn"><i class="fas fa-phone-alt" aria-hidden="true"></i></a> -->
@@ -15,10 +15,10 @@
 	<div class="wsmainfull clearfix">
 		<div class="wsmainwp clearfix">
 			<div class="desktoplogo">
-			<a href="index.php">
-				<div class="content">
-				<img src="img/zahal_logo.svg" class="img-fluid" alt="Zahal">
-				</div>
+			<a href="index.php"><b>Noor Academy</b>
+				<!-- <div class="content">
+				<img src="" class="img-fluid inner-banner-img" alt="Noor Academy">
+				</div> -->
 			</a>
 			</div>
 			<!--Main Menu HTML Code-->
@@ -52,7 +52,7 @@
 						<li><a href="#"><img src="img/icon/YoutubeLogo.png" class="img-fluid"></a></li>
 						<li><a href="#"><img src="img/icon/InstagramLogo.png" class="img-fluid"></a></li>
 						<li><a href="#"><img src="img/icon/FacebookLogo.png" class="img-fluid"></a></li>
-						<li><a href="#"><img src="img/icon/samp.png" class="img-fluid"></a></li>
+						<li><a href="#"><img src="img/icon/whatsapplogo1.png" class="img-fluid"></a></li>
 					</ul>
 				</ul>
 			</nav>
