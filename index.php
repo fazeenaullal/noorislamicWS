@@ -220,34 +220,31 @@
         <div class="border_line for-md"></div>
         <div class="row">
           <div class="col-md-5 offset-md-1 ">
-            <h2>Powering Progress<br> <span>Your Gateway to Premier <br>Industrial Services</span></h2>
+            <h2>Core Features
+           <br> <span> Why Choose Edumim</span></h2>
           </div>
-          <div class="col-md-6 ">
+          <!-- <div class="col-md-6 ">
             <p>Discover unparalleled industrial solutions with Powering Progress. We deliver top-tier, professional
               services designed to elevate your operations and drive efficiency. Partner with us for cutting-edge
               expertise and a commitment to excellence in every project.</p>
 
-          </div>
+          </div> -->
         </div>
         <div class="row box-row">
           <div class="col-md-4  br">
             <img src="img/icon/in-1.jpg" class="img-fluid">
-            <h2>100% Quality Assured</h2>
-            <p>Experience excellence with our 100% Quality Assured services. We guarantee top-notch performance and
-              reliability, ensuring your satisfaction with every project. Trust us for impeccable standards and
-              unmatched professionalism</p>
+            <h2>Learn More Anywhere</h2>
+            <p>Learn From Anywhere In World On Desktop, Mobile Or Tablet With An Internet Connection.</p>
           </div>
           <div class="col-md-4 br">
             <img src="img/icon/in-2.jpg" class="img-fluid">
-            <h2>Projects done on time</h2>
-            <p>Count on us for punctual project completion. We deliver quality results within deadlines, ensuring your
-              projects are finished on time, every time. Trust our commitment to reliability and efficiency.</p>
+            <h2>Expert Instructor</h2>
+            <p>Learn From Anywhere In World On Desktop, Mobile Or Tablet With An Internet Connection.</p>
           </div>
           <div class="col-md-4 ">
             <img src="img/icon/in-3.jpg" class="img-fluid">
-            <h2>Handled by Experts</h2>
-            <p>Entrust your projects to our team of seasoned professionals. With extensive expertise and a dedication to
-              excellence, we ensure every task is handled with precision and care.</p>
+            <h2>24/7 Strong Support</h2>
+            <p>Learn From Anywhere In World On Desktop, Mobile Or Tablet With An Internet Connection.</p>
           </div>
         </div>
       </div>
@@ -276,26 +273,26 @@
         <div class="row mainROw">
           <div class="col-md-3 col-6 offset-md-1">
             <div class="first-top-line "></div>
-            <h3>10+</h3>
-            <p>Years of experience</p>
+            <h3>2K+</h3>
+            <p>Enrolled Students</p>
             <div class="first-bottom-line "></div>
           </div>
           <div class="col-md-3 col-6">
             <div class="secound-top-line "></div>
-            <h3>100%</h3>
-            <p>Qualitative Products</p>
+            <h3>8+</h3>
+            <p>Academic Programs</p>
             <div class="secound-bottom-line "></div>
           </div>
           <div class="col-md-3 col-6">
             <div class="first-top-line "></div>
-            <h3>10+</h3>
-            <p>Years of Experienced Staffs</p>
+            <h3>5k+</h3>
+            <p>Online Classes</p>
             <div class="first-bottom-line "></div>
           </div>
           <div class="col-md-2 col-6">
             <div class="secound-top-line "></div>
-            <h3>200+</h3>
-            <p>Happy Clients</p>
+            <h3>5+</h3>
+            <p>Years Of Expirence</p>
             <div class="secound-bottom-line "></div>
           </div>
         </div>
