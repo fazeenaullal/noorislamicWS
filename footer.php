@@ -12,7 +12,7 @@
         <div class="col-md-4">
             <p><b>Contact us</b></p>
            
-            8059 Riad, <br>Jubail City Center, 5138, <br>Al Jubail 35514
+           MAngalore
          
 
              <br> Mobile No.: +91 8147593262<br>

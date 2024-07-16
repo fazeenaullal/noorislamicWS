@@ -28,14 +28,14 @@
         </div>
         <section class="about-section">
             <div class="container">
-                <h2>ABOUT COMPANY</h2>
+                <h2>ABOUT Noor Academy</h2>
                 <div class="br-bot for-md"></div>
                 <div class="row">
                     <div class="col-md-7">
                         <p>There Are Many Variations Of Passages Of Lorem Ipsum Available, But The Majority Have Suffered.</p>
                     </div>
                     <div class="col-md-5 ">
-                        <img src="img/about-right.jpg" class="img-fluid" alt="Zahal">
+                        <img src="img/image3.jpg" class="img-fluid" alt="Zahal">
                     </div>
                 </div>
             </div>
@@ -61,7 +61,7 @@
         </section>
 
 
-        <?php include ("common-form-section.php") ?>
+        <!-- <?php include ("common-form-section.php") ?> -->
         <?php include ("footer.php") ?>
         <?php include ("footer-common-js.php") ?>
 

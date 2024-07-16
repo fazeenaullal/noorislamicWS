@@ -7,10 +7,10 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Noor Academy</title>
   <meta name="description"
-    content="ZAHAL is one of the leading Industrial Services Companies caters to the ever-growing and complex demands of the Petrochemical & Refineries in Saudi Arabia.">
-  <meta name="keywords" content="ZAHAL, Industrial Services Companies, Industry Maintenance">
-  <meta name="copyright" content="Copyright &copy; 2024 Zahal All Rights Reserved">
-  <meta name="author" content="Zahal">
+    content="Noor Academy is one of The Place Where You Can Achieve.">
+  <meta name="keywords" content="Noor Academy, Industrial Services Companies, Industry Maintenance">
+  <meta name="copyright" content="Copyright &copy; 2024 Noor Academy All Rights Reserved">
+  <meta name="author" content="Noor Academy">
   <meta name="zipcode" content="35412">
   <meta name="city" content="Jubail">
   <meta name="country" content="Saudi Arabia">
@@ -32,7 +32,7 @@
         <div class="carousel-inner">
           <div class="carousel-item active slide1" data-bs-interval="10000">
             <a href="#">
-              <img src="img/slider/1.jpg" class="d-block w-100" alt="Zahal" />
+              <img src="img/slider/3.jpg" class="d-block w-100" alt="Zahal" />
             </a>
           </div>
           <!-- <div class="carousel-item slide2" data-bs-interval="10000">
@@ -83,7 +83,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6 col-12">
-            <img src="img/first-right.jpg" class="img-fluid imgs">
+            <img src="img/image2.jpg" class="img-fluid imgs">
           </div>
           <div class="col-md-6 col-12 content_row">
             <h2>About Noor Academy
@@ -252,18 +252,18 @@
     <section class="fourth-section">
       <div class="container">
         <div class="row">
-          <div class="col-md-6">
+          <!-- <div class="col-md-6">
             <img src="img/third-right.jpg" class="img-fluid">
-          </div>
+          </div> -->
           <div class="col-md-5 padd">
-            <h3>Striving for Excellence in Every</h3>
-            <h2>Industrial <br> Endeavor</h2>
-            <p>We are committed to achieving the highest standards in all our industrial projects. Our relentless
+            <h3>Some Fun Fact</h3>
+            <h2>Our Great Achievement</h2>
+            <!-- <p>We are committed to achieving the highest standards in all our industrial projects. Our relentless
               pursuit of excellence ensures superior quality and exceptional results in every endeavor.</p>
             <div class="buttons">
               <a href="contact-us.php" class="first_button">Get in touch <img src="img/button_arrow.png" class="img-fluid"></a>
               <a href="#" class="secound_button"><img src="img/PhoneCall.png" class="img-fluid"> +91 98765 43210 </a>
-            </div>
+            </div> -->
           </div>
         </div>
       </div>
@@ -300,7 +300,8 @@
     </section>
     <section class="sixith-section">
       <div class="container">
-        <h2>News & Events</h2>
+        <h2>Frequently Asked Question
+        General Questions</h2>
         <div class="row">
           <div class="col-md-6 news-box">
             <div class="row">
@@ -335,7 +336,7 @@
 
 
 
-    <?php include ("common-form-section.php") ?>
+    <!-- <?php include ("common-form-section.php") ?> -->
     <?php include ("footer.php") ?>
     <?php include ("footer-common-js.php") ?>
     <script>
