@@ -52,7 +52,7 @@
 						<li><a href="#"><img src="img/icon/YoutubeLogo.png" class="img-fluid"></a></li>
 						<li><a href="#"><img src="img/icon/InstagramLogo.png" class="img-fluid"></a></li>
 						<li><a href="#"><img src="img/icon/FacebookLogo.png" class="img-fluid"></a></li>
-						<li><a href="#"><img src="img/icon/whatsapplogo1.png" class="img-fluid"></a></li>
+						<li><a href=" https://wa.me/8147593262"><img src="img/icon/whatsapplogo1.png" class="img-fluid"></a></li>
 					</ul>
 				</ul>
 			</nav>

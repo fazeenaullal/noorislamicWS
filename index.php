@@ -17,6 +17,7 @@
   <meta name="robots" content="All">
   <meta name="robots" content="ODP (Default)">
   <link rel="shortcut icon" href="favicon.ico" />
+  <link rel="stylesheet" href="faqs.css" />
   <?php include ('css-header.php') ?>
 </head>
 
@@ -299,15 +300,57 @@
       </div>
     </section>
     <section class="sixith-section">
-      <div class="container">
-        <h2>Frequently Asked Question
-        General Questions</h2>
-        <div class="row">
-          <div class="col-md-6 news-box">
-            <div class="row">
-              <div class="col-md-5">
+    <div class="faqs-container">
+      <h2>Frequently Asked Questions</h2>
+
+      <div class="questions-container">
+        <div class="content-container">
+          <div class="faq-header">
+            <h3>What does it take excellent author?</h3>
+            <span class="open active">+</span>
+            <span class="close">-</span>
+          </div>
+
+          <div class="content">
+            <p>
+            Learn At Your Own Pace, Move Between Multiple Courses, Or Switch To A Different Course. Earn A Certificate For Every Learning Program That You Complete At No Additional Cost.
+            </p>
+          </div>
+        </div>
+
+        <div class="content-container">
+          <div class="faq-header">
+            <h3>What does it take excellent author?</h3>
+            <span class="open active">+</span>
+            <span class="close">-</span>
+          </div>
+
+          <div class="content">
+            <p>
+            Learn At Your Own Pace, Move Between Multiple Courses, Or Switch To A Different Course. Earn A Certificate For Every Learning Program That You Complete At No Additional Cost.
+            </p>
+          </div>
+        </div>
+
+        <div class="content-container">
+          <div class="faq-header">
+            <h3>What does it take excellent author?</h3>
+            <span class="open active">+</span>
+            <span class="close">-</span>
+          </div>
+
+          <div class="content">
+            <p>
+            Learn At Your Own Pace, Move Between Multiple Courses, Or Switch To A Different Course. Earn A Certificate For Every Learning Program That You Complete At No Additional Cost.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="faq.js"></script>
+              <!--  <div class="col-md-5">
                 <img src="img/news-1.jpg" class="img-fluid for-md">
-              </div>
+              </div> 
               <div class="col-md-7 content">
                 <p>Lorem ipsum dolor sit amet consectetur. Mattis tortor non nunc tristique convallis pulvinar</p>
                 <span>View more</span>
@@ -328,7 +371,7 @@
             </div>
 
           </div>
-        </div>
+        </div> -->
     </section>
 
 
@@ -340,6 +383,9 @@
     <?php include ("footer.php") ?>
     <?php include ("footer-common-js.php") ?>
     <script>
+
+
+
   document.addEventListener("DOMContentLoaded", function() {
     const imageMap = {
       "pills-home-tab": "img/Camp-Services.jpg",
